@@ -1,1 +1,1 @@
-Neste exercicio que não vale nota com objetivo de fixar o conteúdo revisado na disciplina, foi desenvolvido um sistema de gerenciamento de uma biblioteca utilizando a ulitma versão do Typescript com foco em criar um CRUD que se conecta a um banco de dados SQL.
+Este exercicio tem o objetivo de fixar o conteúdo revisado na disciplina, foi desenvolvido um sistema de gerenciamento de uma biblioteca utilizando a ulitma versão do Typescript com foco em criar um CRUD que se conecta a um banco de dados SQL.
